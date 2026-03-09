@@ -1,12 +1,12 @@
 # TeslaStock_Prediction
 
-Stock Market Analysis and Forecasting (Tesla)
+#Stock Market Analysis and Forecasting (Tesla)
 
 This project performs time series analysis and forecasting on Tesla (TSLA) stock data using Python. The analysis includes trend visualization, volatility analysis, moving averages, seasonal decomposition, and future price forecasting using Facebook Prophet.
 
 The goal of this project is to understand stock market trends and predict future price movements using data science techniques.
 
-Technologies Used
+#Technologies Used
 
 Python
 
@@ -38,7 +38,7 @@ Seasonal decomposition of stock prices
 
 Future stock price forecasting using Prophet
 
- Dataset
+# Dataset
 
 The dataset used in this project contains Tesla (TSLA) historical stock market data including:
 
@@ -52,7 +52,7 @@ Low Price
 
 Close Price
 
-Data Analysis Performed
+#Data Analysis Performed
 1️. Stock Price Trend
 
 Visualization of Tesla closing price over time to observe long-term trends.
@@ -88,7 +88,7 @@ Volatility calculated using rolling standard deviation of returns to understand 
 
 Daily percentage returns calculated to measure stock performance fluctuations.
 
- Stock Price Forecasting
+# Stock Price Forecasting
 
 The project uses Facebook Prophet to forecast future stock prices.
 
